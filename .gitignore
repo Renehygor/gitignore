@@ -1,0 +1,23 @@
+index-teste.html 
+# escreva nome da pasta que deseja ignorar 
+# Created by https://www.toptal.com/developers/gitignore/api/react
+# Edit at https://www.toptal.com/developers/gitignore?templates=react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# End of https://www.toptal.com/developers/gitignore/api/react
+# codigo a cima foi criado no site toptal.com/developer/gitignore para facilitar e ignorar todos .log dentro do projeto que é necessario subir para o github
